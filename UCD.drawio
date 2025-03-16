@@ -1,9 +1,21 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Safari/605.1.15" version="26.1.0">
   <diagram name="Page-1" id="0QLw78AP2B3TTDZAZqFB">
-    <mxGraphModel>
+    <mxGraphModel dx="954" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="7Bqb9g08c9-1m2fMg8og-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="230" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7Bqb9g08c9-1m2fMg8og-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="80" width="230" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="7Bqb9g08c9-1m2fMg8og-4" value="Search items" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="482.5" y="110" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7Bqb9g08c9-1m2fMg8og-5" value="Make purchase" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="482.5" y="210" width="105" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
